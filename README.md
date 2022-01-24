@@ -7,8 +7,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seulgi98&show_icons=true&theme=dracula)](https://github.com/Seulgi98/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seulgi98&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
