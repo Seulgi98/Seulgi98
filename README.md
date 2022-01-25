@@ -9,8 +9,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulgi98&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seulgi98&layout=compact&theme=dracula)](https://github.com/Seulgi98)
-
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=0,15)
