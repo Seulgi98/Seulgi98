@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90&customColorList=0,1,2,3,30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90&customColorList=0,1,2,3)
 
   
 # 💻 Tech Stack 💻 # 
@@ -22,6 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seulgi98&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90&customColorList=0,1,2,3)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90&customColorList=0)
 
 </div>
