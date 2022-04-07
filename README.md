@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=_hexcode&height=100&section=header&fontSize=90)
 
   
 # 💻 Tech Stack 💻 # 
