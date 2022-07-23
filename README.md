@@ -2,20 +2,35 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90&customColorList=0)
 
+### 💟 Portfolio
+[![portfolio](https://img.shields.io/badge/my_portfolio-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Seulgi98)
 
-# 💻 Tech Stack 💻 # 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OracleDB-orange?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+### 💻 Tech Stack
+</a><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+</a><img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+</a><img src = "https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+</a><img src = "https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</a><img src = "https://img.shields.io/badge/Oracle-orange?style=for-the-badge&logo=Oracle&logoColor=white"></a>
+
+### 🧰 Frameworks<br/>
+</a><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+</a><img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+<div align="center">
+
+### 🌐 Socials <br/>
+[![blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://thring.tistory.com/)
+[![notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=Notion&logoColor=white)](https://plastic-ear-749.notion.site/Park-Seul-Gi-e46d0d25bdff4ed69bd7dca8f0aab2cb)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%AC%EA%B8%B0-%EB%B0%95-1a0352236)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulgi98&show_icons=true&theme=dracula)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Seulgi98">
+</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulgi98&show_icons=true&theme=dracula)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sinapirzadeh&theme=dracula&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seulgi98&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90&customColorList=0)
