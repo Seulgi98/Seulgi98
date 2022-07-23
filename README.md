@@ -25,9 +25,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%AC%EA%B8%B0-%EB%B0%95-1a0352236)
 <br/>
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Seulgi98">
-</a>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Seulgi98&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulgi98&show_icons=true&theme=dracula)<br/>
