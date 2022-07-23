@@ -23,11 +23,12 @@
 [![blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://thring.tistory.com/)
 [![notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=Notion&logoColor=white)](https://plastic-ear-749.notion.site/Park-Seul-Gi-e46d0d25bdff4ed69bd7dca8f0aab2cb)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%AC%EA%B8%B0-%EB%B0%95-1a0352236)
-
+<br/>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Seulgi98">
 </a>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulgi98&show_icons=true&theme=dracula)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinapirzadeh&theme=dracula&hide_border=false)<br/>
