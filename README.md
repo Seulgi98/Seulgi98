@@ -14,7 +14,7 @@
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </a><img src = "https://img.shields.io/badge/Oracle-orange?style=for-the-badge&logo=Oracle&logoColor=white"></a>
 
-### 🧰 Frameworks<br/>
+### 🗃 Frameworks<br/>
 </a><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 </a><img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <div align="center">
