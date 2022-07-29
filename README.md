@@ -29,11 +29,12 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Seulgi98&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 <br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulgi98&show_icons=true&theme=dracula)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinapirzadeh&theme=dracula&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seulgi98&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90&customColorList=0)
 
 </div>
