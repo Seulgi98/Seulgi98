@@ -13,6 +13,7 @@
 <img src = "https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<img src = "https://img.shields.io/badge/PHP-6071BE?style=for-the-badge&logo=PHP&logoColor=white"></a>
 <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
 
 ### 🗃 Frameworks<br/>
